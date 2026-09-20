@@ -5,20 +5,6 @@
 Me chamo Thomaz Lira, tenho 22 anos e sou natural do Rio Grande do Norte, atualmente moro em João Pessoa. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unipê. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Linkedin, onde mostro o que estou aprendendo e desenvolvendo.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/Thomaz7BR?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
